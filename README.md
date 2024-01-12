@@ -1,4 +1,4 @@
-# [Ravi Kumar]'s Portfolio
+# Ravi Kumar's Portfolio
 
 👋 Hello there! Welcome to my GitHub portfolio. I'm [Ravi Kumar], a [Computer Science and engineering] passionate about leveraging technology to solve real-world problems. Explore my 
    projects, skills, and experiences below the links.
