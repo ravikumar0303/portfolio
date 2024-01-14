@@ -126,32 +126,16 @@
     z-index: 2;
 }
 
-@media screen and (max-width:1024px) {
-    .container{
-        grid-template-columns: repeat(3, 1fr);
-        padding: 2rem 50px;
-        margin-right: 0;
-		margin-left: 0;
-    }
-}
-@media screen and (max-width:768px) {
+@media screen and (max-width:990px) {
     .container{
         grid-template-columns: repeat(2, 1fr);
         padding: 2rem 50px;
-        height: 7.8rem;
-		width: 7.8rem;
+      
     }
 }
-
 @media screen and (max-width: 650px) {
     .container{
         grid-template-columns: 1fr;
-       
+          
     }
-}
-@media only screen and (max-width:600px) {
-	.container {
-		text-align: center;
-		margin-top: 3rem;
-	}
 }
