@@ -128,7 +128,7 @@
 
 @media screen and (max-width:1024px) {
     .container{
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         padding: 2rem 50px;
         margin-right: 0;
 		margin-left: 0;
